@@ -48,9 +48,8 @@ To join a team where I can contribute to real-world projects, improve my develop
 ## 📫 Contact
 
 - Portfolio: https://siddharthmahida.com/
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: your@email.com
+- LinkedIn: https://www.linkedin.com/in/siddharth-mahida
+- Email:siddhharthsinhmahida26@email.com
 
 ## 📈 Currently Learning
 
