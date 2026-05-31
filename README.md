@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Siddharth Mahida 👋
 
-<!--
-**siddharthmahida/siddharthmahida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into real-world web experiences. My focus is on creating fast, clean, and accessible websites that provide a great user experience across all devices.
+
+- 💻 Frontend Developer
+- ⚛️ React.js Enthusiast
+- 🎨 UI-Focused Developer
+- 📚 Continuous Learner
+- 🤝 Open to Frontend Opportunities
+
+## 🛠 Skills
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Tailwind CSS
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Figma
+
+## 📂 What I Build
+
+- Responsive Websites
+- Landing Pages
+- Portfolio Websites
+- React Applications
+- Interactive User Interfaces
+
+## 🌟 Portfolio
+
+Explore my projects and work:
+
+🔗 https://siddharthmahida.com/
+
+## 🎯 Career Goal
+
+To join a team where I can contribute to real-world projects, improve my development skills, and create products that make a positive impact on users.
+
+## 📫 Contact
+
+- Portfolio: https://siddharthmahida.com/
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: your@email.com
+
+## 📈 Currently Learning
+
+- Advanced React Patterns
+- Performance Optimization
+- Modern Frontend Development Practices
+
+---
+⭐ Thank you for visiting my profile.
